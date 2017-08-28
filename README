@@ -1,2 +1,2 @@
 1, You should copy qamqp.dll to App.exe folder(bin folder) from ReleaseFiles folder when you run project in Qt IDE.
-2, qamqp.dll complie by Qt5.3.1. (Gets it from https://github.com/RobinsonSir/qamqp)
+2, qamqp.dll compiled by Qt5.3.1. (Gets it from https://github.com/RobinsonSir/qamqp)
