@@ -1,0 +1,6 @@
+#ignore all files in this dir
+/*
+#except this file
+!src
+!releaseFile
+!.gitignore
