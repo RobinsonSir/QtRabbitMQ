@@ -1,20 +1,10 @@
-##Run example
+### Run example
 RabbitClient.exe
 Double click RabbitClient.exe in ReleaseFiles folder to run it, you can run two clients to talk to each other.
 
-![alt](http://img.blog.csdn.net/20170829140721194?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvemJjNDE1NzY2MzMx/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast title)
-
-![alt]()
-
-##How to use 
+### How to use 
 1, You should copy qamqp.dll to App.exe folder(bin folder) from ReleaseFiles folder when you run project in Qt IDE.
 2, qamqp.dll compiled by Qt5.3.1. (Gets it from https://github.com/RobinsonSir/qamqp)
-
-
-More info: https://github.com/RobinsonSir/QtRabbitMQ/wiki
-
-
-Welcome to the QtRabbitMQ wiki!
 
 
 ### RabbitMQ简介
