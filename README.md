@@ -7,6 +7,16 @@
 2. qamqp.dll compiled by Qt5.3.1. (Gets it from https://github.com/RobinsonSir/qamqp)
 
 
+
+******************************
+
+
+
+
+
+******************************
+
+
 ### RabbitMQ简介
   MQ全称为Message Queue, 消息队列（MQ）是一种应用程序对应用程序的通信方法。RabbitMQ简单理解，可以将它比喻为邮局，人们给邮局投递信件，邮局将信件派送给收件人。
   
